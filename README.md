@@ -1,7 +1,7 @@
 # Promotional-website.github.io
 promotional website
 
-I will be promoting why you should learn to play the guitar.
+Promoting:
 
 # About the Author 
 - [x] Nationality
