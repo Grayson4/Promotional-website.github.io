@@ -1,26 +1,26 @@
 # Promotional-website.github.io
 promotional website
 
-Promoting:
+Promoting: Hermitcraft (Grian, Goodtimeswithscar)
 
-# About the Author 
-- [x] Nationality
-- [] Ethnicity
-- [] Birth place
-- [] Nick names
-- [] Culture & Customs Examples
-- [] Hobbies
-- [] Sports
-- [] Habits
-- [] Daily Routines
-- [] Personality
-- [] Music
-- [] Memes illustrating your humor
-- [] Family and Friends
-- [] subjects you enjoy
-- [] academics
+Todo list:
+- [] images
+- [] formating (fexbox, div)
+- [] get information
+- [] colours
+- [] footer
+- [] icon (maybe)
 
 ...
+
+- [] people on hermitcraft
+- [] their bulids
+- [] what is hermitcraft
+- [] the makers/owners of hermitcraft
+- [] how to suport the people on hermitcraft
+
+
+# About the Author 
 
 - Canadian
 - Metis, German, scotish
