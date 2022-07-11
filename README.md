@@ -10,6 +10,8 @@ Todo list:
 - [] colours
 - [] footer
 - [] icon (maybe)
+- [] fonts
+- [] multipul pages
 
 ...
 
